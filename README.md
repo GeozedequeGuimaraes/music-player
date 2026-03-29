@@ -18,6 +18,9 @@
 
 ---
 
+## Demo
+![Demo](screenshots/demo.gif)
+
 ## Preview
 
 <div align="center">
