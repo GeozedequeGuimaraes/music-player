@@ -31,71 +31,71 @@ Music Player é um player de música web com visual baseado em neumorfismo — e
 ## Funcionalidades
 
 - Play/Pause com ícone animado
-- - Barra de progresso clicável — clique ou arraste para qualquer ponto da música
-  - - Timer com tempo atual e duração total calculados automaticamente
-    - - Botões de skip de 10 segundos para frente e para trás
-      - - Capa do álbum que gira durante a reprodução e pausa ao pausar
-        - - Reset automático ao terminar a faixa
-          - - Layout responsivo para desktop e mobile
-           
-            - ---
+- Barra de progresso clicável — clique ou arraste para qualquer ponto da música
+- Timer com tempo atual e duração total calculados automaticamente
+- Botões de skip de 10 segundos para frente e para trás
+- Capa do álbum que gira durante a reprodução e pausa ao pausar
+- Reset automático ao terminar a faixa
+- Layout responsivo para desktop e mobile
 
-            ## Tecnologias
+---
 
-            - HTML5 com Audio API nativa
-            - - CSS3 com Flexbox, animações e neumorfismo customizado
-              - - JavaScript sem dependências para a lógica do player
-                - - Font Awesome e Material Icons para os controles
-                  - - Google Fonts (Raleway)
-                   
-                    - ---
+## Tecnologias
 
-                    ## Como executar
+- HTML5 com Audio API nativa
+- CSS3 com Flexbox, animações e neumorfismo customizado
+- JavaScript sem dependências para a lógica do player
+- Font Awesome e Material Icons para os controles
+- Google Fonts (Raleway)
 
-                    Abra o `index.html` no navegador. Não há instalação necessária.
+---
 
-                    ```shell
-                    git clone https://github.com/GeozedequeGuimaraes/music-player.git
-                    cd music-player
-                    open index.html
-                    ```
+## Como executar
 
-                    ---
+Abra o `index.html` no navegador. Não há instalação necessária.
 
-                    ## Estrutura
+```shell
+git clone https://github.com/GeozedequeGuimaraes/music-player.git
+cd music-player
+open index.html
+```
 
-                    ```
-                    music-player/
-                    ├── index.html
-                    ├── style.css
-                    ├── index.js
-                    ├── files/
-                    │   ├── liniker.jpg
-                    │   └── liniker_zero.mp3
-                    └── screenshots/
-                    ```
+---
 
-                    ---
+## Estrutura
 
-                    ## Screenshots
+```
+music-player/
+├── index.html
+├── style.css
+├── index.js
+├── files/
+│   ├── liniker.jpg
+│   └── liniker_zero.mp3
+└── screenshots/
+```
 
-                    <div align="center">
+---
 
-                    | Desktop | Mobile |
-                    |:---:|:---:|
-                    | <img src="screenshots/01-desktop.png" width="500"> | <img src="screenshots/02-mobile.png" width="280"> |
+## Screenshots
 
-                    </div>
+<div align="center">
 
-                    ---
+| Desktop | Mobile |
+|:---:|:---:|
+| <img src="screenshots/01-desktop.png" width="500"> | <img src="screenshots/02-mobile.png" width="280"> |
 
-                    ## Autor
+</div>
 
-                    <div align="center">
+---
 
-                    Geozedeque Guimarães — Estudante de Ciência da Computação, CIn-UFPE
+## Autor
 
-                    [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/GeozedequeGuimaraes)
-                    [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/geozedeque-guimaraes)
+<div align="center">
 
-                    </div>
+Geozedeque Guimarães — Estudante de Ciência da Computação, CIn-UFPE
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/GeozedequeGuimaraes)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/geozedeque-guimaraes)
+
+</div>
